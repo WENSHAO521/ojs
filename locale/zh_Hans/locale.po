@@ -56,7 +56,7 @@ msgid "common.journalHomepageImage.altText"
 msgstr "期刊主页图片"
 
 msgid "doi.manager.settings.publications"
-msgstr ""
+msgstr "出版物"
 
 msgid "navigation.journalHelp"
 msgstr "期刊帮助"
@@ -521,13 +521,13 @@ msgid "issue.return"
 msgstr "返回到刊期详细信息"
 
 msgid "doi.issue.incorrectContext"
-msgstr ""
+msgstr "期刊归属错误"
 
 msgid "doi.issue.incorrectStaleStatus"
-msgstr ""
+msgstr "专刊状态异常，无法分配DOI"
 
 msgid "doi.issue.notPublished"
-msgstr ""
+msgstr "专刊尚未发布"
 
 msgid "subscriptionTypes.currency"
 msgstr "货币"
@@ -2103,7 +2103,7 @@ msgid "notification.type.newAnnouncement"
 msgstr "一条新公告已创建。"
 
 msgid "notification.type.openAccess"
-msgstr ""
+msgstr "开放获取状态通知"
 
 msgid "notification.type.reviewerFormComment"
 msgstr "一个关于 \"{$title}\"的审稿评论已经提交。"
